@@ -1,0 +1,26 @@
+C:\Users\ruchi\source\repos\Music Player\Music Player\bin\Debug\Music Player.exe.config
+C:\Users\ruchi\source\repos\Music Player\Music Player\bin\Debug\Music Player.exe
+C:\Users\ruchi\source\repos\Music Player\Music Player\bin\Debug\Music Player.pdb
+C:\Users\ruchi\source\repos\Music Player\Music Player\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\ruchi\source\repos\Music Player\Music Player\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\ruchi\source\repos\Music Player\Music Player\obj\Debug\Music Player.csproj.AssemblyReference.cache
+C:\Users\ruchi\source\repos\Music Player\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\ruchi\source\repos\Music Player\Music Player\obj\Debug\Music Player.csproj.GenerateResource.cache
+C:\Users\ruchi\source\repos\Music Player\Music Player\obj\Debug\Music Player.exe.licenses
+C:\Users\ruchi\source\repos\Music Player\Music Player\obj\Debug\Music Player.csproj.CoreCompileInputs.cache
+C:\Users\ruchi\source\repos\Music Player\Music Player\obj\Debug\Music Player.csproj.CopyComplete
+C:\Users\ruchi\source\repos\Music Player\Music Player\obj\Debug\Music Player.exe
+C:\Users\ruchi\source\repos\Music Player\Music Player\obj\Debug\Music Player.pdb
+C:\Users\ruchi\source\repos\Music Player\Music Player\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\ruchi\source\repos\Music Player\Music Player\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\ruchi\source\repos\Music Player\Music Player\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\ruchi\source\repos\Music Player\Music Player\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\ruchi\source\repos\Music Player\Music Player\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\ruchi\source\repos\Music Player\Music Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\ruchi\source\repos\Music Player\Music Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ruchi\source\repos\Music Player\Music Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\ruchi\source\repos\Music Player\Music Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ruchi\source\repos\Music Player\Music Player\obj\Debug\Music Player.csproj.ResolveComReference.cache
+C:\Users\ruchi\source\repos\Music Player\Music Player\bin\Debug\taglib-sharp.dll
+C:\Users\ruchi\source\repos\Music Player\Music Player\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\ruchi\source\repos\Music Player\Music Player\obj\Debug\Music_Player.form1.resources
